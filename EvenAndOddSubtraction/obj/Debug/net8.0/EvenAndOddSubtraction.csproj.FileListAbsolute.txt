@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.exe
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.deps.json
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\bin\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.dll
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\refint\EvenAndOddSubtraction.dll
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.pdb
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\EvenAndOddSubtraction.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\EvenAndOddSubtraction\EvenAndOddSubtraction\obj\Debug\net8.0\ref\EvenAndOddSubtraction.dll
